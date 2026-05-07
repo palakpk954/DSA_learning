@@ -29,6 +29,7 @@ int main(){
 }
 
 CODE 2: PASS BY VALUE AND PASS BY REFRENCE USING SOME CHANGE FUNCTION WHICH WE CREATED
+
 #include <iostream>
 using namespace std;
 class Student{//student is a new datatype
@@ -68,3 +69,86 @@ int main(){
 
     return 0;
 }
+
+CODE 3: COPY CONSTRACTOR AND DEEP COPY
+
+#include <iostream>
+using namespace std;
+class Student{//student is a new datatype
+public:
+string name;
+int rno;
+float gpa;
+Student(){//default constructor
+    
+}
+Student(string s, int r, float g){ //parameterised constructor
+    name = s;
+    rno = r;
+    gpa = g;}
+};
+
+void print (Student s){
+    cout<<s.name<<" "<<s.rno<<" "<<s.gpa<<" "<<endl;
+}
+
+void change(Student& s){ //&ki wajah se pass by refrence ho gya
+    s.name="khushi";
+    
+}
+
+int main(){
+    Student s1;
+    s1.name = "palak";
+    s1.rno = 89;
+    s1.gpa = 9.8;
+    
+    Student s2;
+    s2.name = "ram";
+    s2.rno = 9;
+    s2.gpa = 9.2;
+    
+    Student s3=s1;//deep copy
+    s3.name="radha";
+    
+    Student s4(s2);//copy constructor--deep copy(cpp specific)
+    
+    print(s1);
+    change(s1); //pass by value tha when & was not used
+    print(s1);
+    print(s2);
+    print(s3);
+    print(s4);
+
+
+    return 0;
+}
+
+CODE 4: THIS KEYWORD
+
+#include <iostream>
+using namespace std;
+class Criketer{
+    public:
+    string name;
+    int runs;
+    
+    Criketer(string name, int runs){
+        this->name = name;
+        this->runs = runs;
+        
+    }
+};
+
+int main(){
+    Criketer c1("Virat kohli", 25000);
+    Criketer c2("Rohit Sharma", 35000);
+    
+    cout<<c1.name<<" "<<c1.runs<<endl;
+    cout<<c2.name<<" "<<c2.runs<<endl;
+    
+}
+    
+
+
+
