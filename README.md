@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/palakpk954/DSA_learning/tree/master/3620-network-recovery-pathways) |
+| [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/palakpk954/DSA_learning/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Hash Table
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
