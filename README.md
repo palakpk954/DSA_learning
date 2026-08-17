@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/palakpk954/DSA_learning/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/palakpk954/DSA_learning/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/palakpk954/DSA_learning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/palakpk954/DSA_learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/palakpk954/DSA_learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/palakpk954/DSA_learning/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/palakpk954/DSA_learning/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/palakpk954/DSA_learning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/palakpk954/DSA_learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
 | [3312-sorted-gcd-pair-queries](https://github.com/palakpk954/DSA_learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/palakpk954/DSA_learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakpk954/DSA_learning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
