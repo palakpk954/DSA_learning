@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakpk954/DSA_learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/palakpk954/DSA_learning/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1927-sum-game](https://github.com/palakpk954/DSA_learning/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/palakpk954/DSA_learning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakpk954/DSA_learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/palakpk954/DSA_learning/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/palakpk954/DSA_learning/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/palakpk954/DSA_learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/palakpk954/DSA_learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakpk954/DSA_learning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakpk954/DSA_learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/palakpk954/DSA_learning/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/palakpk954/DSA_learning/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/palakpk954/DSA_learning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/palakpk954/DSA_learning/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/palakpk954/DSA_learning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/palakpk954/DSA_learning/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
