@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/palakpk954/DSA_learning/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/palakpk954/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakpk954/DSA_learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/palakpk954/DSA_learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
