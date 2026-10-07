@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/palakpk954/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/palakpk954/DSA_learning/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0032-longest-valid-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/palakpk954/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/palakpk954/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/palakpk954/DSA_learning/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/palakpk954/DSA_learning/tree/master/1301-number-of-paths-with-max-score) |
