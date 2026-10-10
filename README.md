@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/palakpk954/DSA_learning/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/palakpk954/DSA_learning/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/palakpk954/DSA_learning/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
@@ -336,4 +338,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/palakpk954/DSA_learning/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
