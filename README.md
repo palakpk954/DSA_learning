@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/palakpk954/DSA_learning/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/palakpk954/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakpk954/DSA_learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -311,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/palakpk954/DSA_learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/palakpk954/DSA_learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/palakpk954/DSA_learning/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -360,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
