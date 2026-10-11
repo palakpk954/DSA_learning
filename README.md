@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/palakpk954/DSA_learning/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/palakpk954/DSA_learning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/palakpk954/DSA_learning/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/palakpk954/DSA_learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/palakpk954/DSA_learning/tree/master/0856-score-of-parentheses) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/palakpk954/DSA_learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/palakpk954/DSA_learning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/palakpk954/DSA_learning/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/palakpk954/DSA_learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
