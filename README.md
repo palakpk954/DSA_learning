@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/palakpk954/DSA_learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/palakpk954/DSA_learning/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakpk954/DSA_learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/palakpk954/DSA_learning/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palakpk954/DSA_learning/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/palakpk954/DSA_learning/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/palakpk954/DSA_learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/palakpk954/DSA_learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/palakpk954/DSA_learning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakpk954/DSA_learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/palakpk954/DSA_learning/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/palakpk954/DSA_learning/tree/master/3719-longest-balanced-subarray-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/palakpk954/DSA_learning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakpk954/DSA_learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/palakpk954/DSA_learning/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/palakpk954/DSA_learning/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/palakpk954/DSA_learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/palakpk954/DSA_learning/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/palakpk954/DSA_learning/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palakpk954/DSA_learning/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
@@ -367,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/palakpk954/DSA_learning/tree/master/0173-binary-search-tree-iterator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/palakpk954/DSA_learning/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/palakpk954/DSA_learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/palakpk954/DSA_learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/palakpk954/DSA_learning/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/palakpk954/DSA_learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
