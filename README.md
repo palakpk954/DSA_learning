@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/palakpk954/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/palakpk954/DSA_learning/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/palakpk954/DSA_learning/tree/master/0174-dungeon-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/palakpk954/DSA_learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1254-number-of-closed-islands](https://github.com/palakpk954/DSA_learning/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/palakpk954/DSA_learning/tree/master/1260-shift-2d-grid) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/palakpk954/DSA_learning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/palakpk954/DSA_learning/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/palakpk954/DSA_learning/tree/master/0172-factorial-trailing-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/palakpk954/DSA_learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/palakpk954/DSA_learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
