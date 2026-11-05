@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/palakpk954/DSA_learning/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/palakpk954/DSA_learning/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/palakpk954/DSA_learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/palakpk954/DSA_learning/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/palakpk954/DSA_learning/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/palakpk954/DSA_learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/palakpk954/DSA_learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/palakpk954/DSA_learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/palakpk954/DSA_learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/palakpk954/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/palakpk954/DSA_learning/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/palakpk954/DSA_learning/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/palakpk954/DSA_learning/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/palakpk954/DSA_learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/palakpk954/DSA_learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/palakpk954/DSA_learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/palakpk954/DSA_learning/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/palakpk954/DSA_learning/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/palakpk954/DSA_learning/tree/master/0165-compare-version-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/palakpk954/DSA_learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/palakpk954/DSA_learning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/palakpk954/DSA_learning/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakpk954/DSA_learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
